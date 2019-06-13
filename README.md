@@ -1,6 +1,7 @@
 # Variational Auto-Encoder For MNIST Hand-Written Digits
 
-Tensorflow implementation of Variational Autoencoder (VAE) trained on MNIST handwritten digits
+Tensorflow implementation of Variational Autoencoder (VAE) trained on MNIST handwritten digits.
+
 Implementation and training was done on Google Collab GPU's.
 
 ## RESULTS
